@@ -1,4 +1,2 @@
 Hello
-Let's do this.
-Do it lady.
-thankyou Chit
+Can Azure OIDC to ADO?  Yes.
