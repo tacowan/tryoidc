@@ -23,3 +23,6 @@ jobs:
         inlineScript: |
           az account show
           # You can write your Azure CLI inline scripts here.
+          az devops configure --defaults organization=https://dev.azure.com/tgcexternal
+          az devops project list
+
